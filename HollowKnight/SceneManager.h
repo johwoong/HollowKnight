@@ -14,8 +14,7 @@ public:
 	void render(HDC _dc);
 
 public:
-
-private:
 	void ChangeScene(SCENE_TYPE _eNext);
+    
 };
 

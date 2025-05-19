@@ -1,2 +1,4 @@
 ﻿  CMenuScene.cpp
+  CStartScene.cpp
+  SceneManager.cpp
   HollowKnight.vcxproj -> C:\Users\조한웅\Desktop\Git\HollowKnight\Output\bin_debug\HollowKnight.exe

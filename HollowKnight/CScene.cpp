@@ -12,10 +12,12 @@ CScene::~CScene()
 
 void CScene::update()
 {
+
 }
 
 void CScene::finaludpate()
 {
+
 }
 
 void CScene::render(HDC _dc)

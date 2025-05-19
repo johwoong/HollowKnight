@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CMenuScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CMenuScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CStartScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CStartScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CMenuScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CMenuScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,28 +35,20 @@
       "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CResource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CResource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CPathManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -47,44 +59,44 @@
       "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CPathManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CMenuScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CMenuScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CStartScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CStartScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\HollowKnight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\flags.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\flags.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.rc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\HollowKnight.rc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CResource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\CTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|solutionrelative:HollowKnight\\HollowKnight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{781A5205-83EC-4791-A6BC-70802A892391}|HollowKnight\\HollowKnight.vcxproj|C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\icon1.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -106,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 170,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,137 +126,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CMenuScene.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CMenuScene.cpp",
-              "RelativeDocumentMoniker": "HollowKnight\\CMenuScene.cpp",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CMenuScene.cpp",
-              "RelativeToolTip": "HollowKnight\\CMenuScene.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwCsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-18T13:15:12.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "CMenuScene.h",
               "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CMenuScene.h",
               "RelativeDocumentMoniker": "HollowKnight\\CMenuScene.h",
               "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CMenuScene.h",
               "RelativeToolTip": "HollowKnight\\CMenuScene.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-18T13:15:01.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CPathManager.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.cpp",
-              "RelativeDocumentMoniker": "HollowKnight\\CPathManager.cpp",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.cpp",
-              "RelativeToolTip": "HollowKnight\\CPathManager.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CStartScene.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CStartScene.cpp",
+              "RelativeDocumentMoniker": "HollowKnight\\CStartScene.cpp",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CStartScene.cpp",
+              "RelativeToolTip": "HollowKnight\\CStartScene.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-18T14:15:57.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HollowKnight.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.cpp",
-              "RelativeDocumentMoniker": "HollowKnight\\HollowKnight.cpp",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.cpp",
-              "RelativeToolTip": "HollowKnight\\HollowKnight.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAkwEoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-17T01:47:21.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CResource.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.cpp",
-              "RelativeDocumentMoniker": "HollowKnight\\CResource.cpp",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.cpp",
-              "RelativeToolTip": "HollowKnight\\CResource.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-18T13:35:32.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SceneManager.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.h",
-              "RelativeDocumentMoniker": "HollowKnight\\SceneManager.h",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.h",
-              "RelativeToolTip": "HollowKnight\\SceneManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T13:05:46.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CTexture.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.cpp",
-              "RelativeDocumentMoniker": "HollowKnight\\CTexture.cpp",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.cpp",
-              "RelativeToolTip": "HollowKnight\\CTexture.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-18T13:39:32.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CPathManager.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.h",
-              "RelativeDocumentMoniker": "HollowKnight\\CPathManager.h",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.h",
-              "RelativeToolTip": "HollowKnight\\CPathManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T14:14:23.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CResource.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.h",
-              "RelativeDocumentMoniker": "HollowKnight\\CResource.h",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.h",
-              "RelativeToolTip": "HollowKnight\\CResource.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T13:32:45.195Z",
+              "WhenOpened": "2025-05-19T16:46:43.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SceneManager.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.cpp",
-              "RelativeDocumentMoniker": "HollowKnight\\SceneManager.cpp",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.cpp",
-              "RelativeToolTip": "HollowKnight\\SceneManager.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Title": "CMenuScene.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CMenuScene.cpp",
+              "RelativeDocumentMoniker": "HollowKnight\\CMenuScene.cpp",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CMenuScene.cpp",
+              "RelativeToolTip": "HollowKnight\\CMenuScene.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-18T13:05:53.816Z",
+              "WhenOpened": "2025-05-18T13:15:12.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
+              "Title": "ResourceManager.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\ResourceManager.h",
+              "RelativeDocumentMoniker": "HollowKnight\\ResourceManager.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\ResourceManager.h",
+              "RelativeToolTip": "HollowKnight\\ResourceManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T14:10:37.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CScene.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.cpp",
+              "RelativeDocumentMoniker": "HollowKnight\\CScene.cpp",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.cpp",
+              "RelativeToolTip": "HollowKnight\\CScene.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T13:06:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CGame.cpp",
               "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CGame.cpp",
               "RelativeDocumentMoniker": "HollowKnight\\CGame.cpp",
@@ -257,20 +204,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResourceManager.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\ResourceManager.h",
-              "RelativeDocumentMoniker": "HollowKnight\\ResourceManager.h",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\ResourceManager.h",
-              "RelativeToolTip": "HollowKnight\\ResourceManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T14:10:37.931Z",
+              "DocumentIndex": 6,
+              "Title": "HollowKnight.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.cpp",
+              "RelativeDocumentMoniker": "HollowKnight\\HollowKnight.cpp",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.cpp",
+              "RelativeToolTip": "HollowKnight\\HollowKnight.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T01:47:21.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CScene.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.h",
+              "RelativeDocumentMoniker": "HollowKnight\\CScene.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.h",
+              "RelativeToolTip": "HollowKnight\\CScene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T13:06:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "HollowKnight\\SceneManager.cpp",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.cpp",
+              "RelativeToolTip": "HollowKnight\\SceneManager.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T13:05:53.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CResource.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.cpp",
+              "RelativeDocumentMoniker": "HollowKnight\\CResource.cpp",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.cpp",
+              "RelativeToolTip": "HollowKnight\\CResource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T13:35:32.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CTexture.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.cpp",
+              "RelativeDocumentMoniker": "HollowKnight\\CTexture.cpp",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.cpp",
+              "RelativeToolTip": "HollowKnight\\CTexture.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T13:39:32.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CPathManager.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.cpp",
+              "RelativeDocumentMoniker": "HollowKnight\\CPathManager.cpp",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.cpp",
+              "RelativeToolTip": "HollowKnight\\CPathManager.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T14:15:57.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CPathManager.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.h",
+              "RelativeDocumentMoniker": "HollowKnight\\CPathManager.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CPathManager.h",
+              "RelativeToolTip": "HollowKnight\\CPathManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T14:14:23.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ResourceManager.cpp",
               "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\ResourceManager.cpp",
               "RelativeDocumentMoniker": "HollowKnight\\ResourceManager.cpp",
@@ -283,85 +308,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CGame.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CGame.h",
-              "RelativeDocumentMoniker": "HollowKnight\\CGame.h",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CGame.h",
-              "RelativeToolTip": "HollowKnight\\CGame.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T12:38:48.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\pch.h",
-              "RelativeDocumentMoniker": "HollowKnight\\pch.h",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\pch.h",
-              "RelativeToolTip": "HollowKnight\\pch.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T12:41:00.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CTexture.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.h",
-              "RelativeDocumentMoniker": "HollowKnight\\CTexture.h",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.h",
-              "RelativeToolTip": "HollowKnight\\CTexture.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.h",
+              "RelativeDocumentMoniker": "HollowKnight\\SceneManager.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\SceneManager.h",
+              "RelativeToolTip": "HollowKnight\\SceneManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T13:36:20.725Z",
+              "WhenOpened": "2025-05-18T13:05:46.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "CScene.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.cpp",
-              "RelativeDocumentMoniker": "HollowKnight\\CScene.cpp",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.cpp",
-              "RelativeToolTip": "HollowKnight\\CScene.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-18T13:06:20.852Z",
+              "Title": "CStartScene.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CStartScene.h",
+              "RelativeDocumentMoniker": "HollowKnight\\CStartScene.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CStartScene.h",
+              "RelativeToolTip": "HollowKnight\\CStartScene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T16:46:38.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "CScene.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.h",
-              "RelativeDocumentMoniker": "HollowKnight\\CScene.h",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CScene.h",
-              "RelativeToolTip": "HollowKnight\\CScene.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T13:06:16.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HollowKnight.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.h",
-              "RelativeDocumentMoniker": "HollowKnight\\HollowKnight.h",
-              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.h",
-              "RelativeToolTip": "HollowKnight\\HollowKnight.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T10:02:33.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "flags.h",
               "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\flags.h",
               "RelativeDocumentMoniker": "HollowKnight\\flags.h",
@@ -374,32 +347,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 16,
               "Title": "define.h",
               "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\define.h",
               "RelativeDocumentMoniker": "HollowKnight\\define.h",
               "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\define.h",
               "RelativeToolTip": "HollowKnight\\define.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-18T12:42:37.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CResource.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.h",
+              "RelativeDocumentMoniker": "HollowKnight\\CResource.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CResource.h",
+              "RelativeToolTip": "HollowKnight\\CResource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T13:32:45.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HollowKnight.rc",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.rc",
+              "RelativeDocumentMoniker": "HollowKnight\\HollowKnight.rc",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.rc",
+              "RelativeToolTip": "HollowKnight\\HollowKnight.rc",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-19T15:55:16.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CGame.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CGame.h",
+              "RelativeDocumentMoniker": "HollowKnight\\CGame.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CGame.h",
+              "RelativeToolTip": "HollowKnight\\CGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T12:38:48.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\pch.h",
+              "RelativeDocumentMoniker": "HollowKnight\\pch.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\pch.h",
+              "RelativeToolTip": "HollowKnight\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T12:41:00.814Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "CTexture.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.h",
+              "RelativeDocumentMoniker": "HollowKnight\\CTexture.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\CTexture.h",
+              "RelativeToolTip": "HollowKnight\\CTexture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T13:36:20.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HollowKnight.h",
+              "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.h",
+              "RelativeDocumentMoniker": "HollowKnight\\HollowKnight.h",
+              "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\HollowKnight.h",
+              "RelativeToolTip": "HollowKnight\\HollowKnight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T10:02:33.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "icon1.ico - Icon [256x256, 32\uBE44\uD2B8, PNG]",
               "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\icon1.ico",
               "RelativeDocumentMoniker": "HollowKnight\\icon1.ico",
               "ToolTip": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\icon1.ico - Icon [256x256, 32\uBE44\uD2B8, PNG]",
               "RelativeToolTip": "HollowKnight\\icon1.ico - Icon [256x256, 32\uBE44\uD2B8, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2025-05-18T13:31:24.811Z",
-              "EditorCaption": " - Icon [256x256, 32\uBE44\uD2B8, PNG]"
+              "WhenOpened": "2025-05-18T13:31:24.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "targetver.h",
               "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\targetver.h",
               "RelativeDocumentMoniker": "HollowKnight\\targetver.h",
@@ -407,12 +452,11 @@
               "RelativeToolTip": "HollowKnight\\targetver.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T10:38:40.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T10:38:40.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "framework.h",
               "DocumentMoniker": "C:\\Users\\\uC870\uD55C\uC6C5\\Desktop\\Git\\HollowKnight\\HollowKnight\\framework.h",
               "RelativeDocumentMoniker": "HollowKnight\\framework.h",
@@ -420,8 +464,7 @@
               "RelativeToolTip": "HollowKnight\\framework.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-18T10:06:59.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T10:06:59.826Z"
             }
           ]
         }

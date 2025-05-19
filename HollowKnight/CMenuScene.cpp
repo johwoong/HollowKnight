@@ -2,6 +2,7 @@
 #include "CMenuScene.h"
 #include "CTexture.h"
 #include "ResourceManager.h"
+#include "SceneManager.h"
 #include "CGame.h"
 
 CMenuScene::CMenuScene()
@@ -16,6 +17,10 @@ CMenuScene::~CMenuScene()
 
 void CMenuScene::update()
 {
+    if (GetAsyncKeyState(VK_SPACE))
+    {
+        SceneManager::GetInst()->ChangeScene(SCENE_TYPE::STARTMAP);
+    }
 }
 
 void CMenuScene::render(HDC _dc)

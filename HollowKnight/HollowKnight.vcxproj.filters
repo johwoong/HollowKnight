@@ -87,6 +87,9 @@
     <ClInclude Include="flags.h">
       <Filter>소스 파일\Header</Filter>
     </ClInclude>
+    <ClInclude Include="CStartScene.h">
+      <Filter>소스 파일\Scene</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HollowKnight.cpp">
@@ -115,6 +118,9 @@
     </ClCompile>
     <ClCompile Include="CPathManager.cpp">
       <Filter>소스 파일\Manager\PathManager</Filter>
+    </ClCompile>
+    <ClCompile Include="CStartScene.cpp">
+      <Filter>소스 파일\Scene</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
